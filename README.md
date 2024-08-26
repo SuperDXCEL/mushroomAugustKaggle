@@ -11,5 +11,5 @@ My approaches have been:
    
   -From-scratch neural network which accuracy ranges between 0.45 and 0.
   
-  -Next approach is a RandomForest from scratch.
+  -Next approach is a GBM
   

@@ -9,7 +9,7 @@ My approaches have been:
    have gotten about a 0.52 on my best submission which is pretty bad since it is not any better than
    random guessing.
    
-  -From-scratch neural network which accuracy ranges between 0.45 and 0.
+  -From-scratch neural network which accuracy ranges between 0.45 and 0.52
   
   -Next approach is a GBM
   

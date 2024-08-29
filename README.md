@@ -11,5 +11,5 @@ My approaches have been:
    
   -From-scratch neural network which accuracy ranges between 0.45 and 0.52
   
-  -Next approach is a GBM
+  -XGBoost Classifier has gotten me a 0.97 accuracy submission, took more care of the data before feeding it to the model (see latest commit for mushroomxgbm.ipynb)
   
